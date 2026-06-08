@@ -1,1 +1,3 @@
 allow port 443 for HTTPS - Main Branch New
+allow port 2222 for SSH - Conflict Branch
+
