@@ -1,1 +1,1 @@
-
+Rule 1: Always scan for secrets.
