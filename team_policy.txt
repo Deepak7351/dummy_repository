@@ -1,1 +1,2 @@
 Rule 1: Always scan for secrets.
+Rule 2: No hardcoded credentials.
